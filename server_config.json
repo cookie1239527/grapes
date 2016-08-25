@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://dbuser:cookie123@ds013004.mlab.com:13004/gcmtell",
+
+    "gcm": {
+        "apiKey": "AIzaSyC65Cec_5OxIzJsX0boBT3ABd_4Zbmc4QU"
+    }
+}
